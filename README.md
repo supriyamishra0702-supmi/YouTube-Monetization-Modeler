@@ -25,7 +25,8 @@ As digital content becomes a primary source of income, predicting ad revenue is 
 
 | High Performance Video | Strategic Insights & Metrics |
 | :---: | :---: |
-<img width="886" height="484" alt="app_demo" src="https://github.com/user-attachments/assets/3e76cb5c-c08a-42cb-8976-6cd6a98a9f22" />
+<img width="835" height="473" alt="app_demo" src="https://github.com/user-attachments/assets/a0191b84-4218-43b1-a925-3fc32ce35aaa" />
+
 
 <img width="942" height="494" alt="app_demo1" src="https://github.com/user-attachments/assets/b42e7e66-e261-4e3a-98cf-15e208aadcc6" />
 
