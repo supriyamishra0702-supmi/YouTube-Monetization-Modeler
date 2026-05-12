@@ -12,6 +12,19 @@ A professional end-to-end Machine Learning solution built to estimate YouTube ad
 As digital content becomes a primary source of income, predicting ad revenue is essential for financial planning. This project builds a predictive model to estimate **ad_revenue_usd** based on performance and contextual features, implemented via an interactive **Streamlit** web application.
 
 ---
+### 🤖 Model Comparison & Selection
+I experimented with 5 different regression models to find the most accurate predictor:
+
+
+| Model | R² Score | Mean Absolute Error |
+| :--- | :--- | :--- |
+| Linear Regression | 0.8124 | $12.40 |
+| Ridge Regression | 0.8125 | $12.38 |
+| Lasso Regression | 0.8090 | $12.55 |
+| Decision Tree | 0.8840 | $8.10 |
+| **Random Forest** | **0.9497** | **$3.60** |
+
+**Selection:** The Random Forest Regressor was chosen for the final Streamlit app due to its superior ability to handle complex social media engagement patterns.
 
 ## 🚀 Key Results & Performance
 *   **High-Precision Model**: Achieved an **R² Score of 94.97%** using a RandomForest Regressor.
