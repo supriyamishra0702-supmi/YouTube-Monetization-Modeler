@@ -32,7 +32,7 @@ models = {
     "Random Forest": RandomForestRegressor(n_estimators=100, random_state=42, n_jobs=-1)
 }
 
-# 4. Train and Compare (Including RMSE as per rubric)
+# 4. Train and Compare 
 print("\n📊 MODEL SHOOTOUT RESULTS")
 print(f"{'Model Name':<20} | {'R2':<7} | {'MAE':<8} | {'RMSE':<8}")
 print("-" * 55)
