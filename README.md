@@ -23,6 +23,7 @@ I experimented with 5 different regression models to find the most accurate pred
 | Lasso Regression | 0.8090 | $12.55 |
 | Decision Tree | 0.8840 | $8.10 |
 | **Random Forest** | **0.9497** | **$3.60** |
+<img width="845" height="198" alt="model_shootout_results" src="https://github.com/user-attachments/assets/f0fe3d2b-32bf-4db1-ae81-7c9f64c7985c" />
 
 **Selection:** The Random Forest Regressor was chosen for the final Streamlit app due to its superior ability to handle complex social media engagement patterns.
 
